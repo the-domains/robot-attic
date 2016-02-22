@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Robot Attic]]></title>
         <description><![CDATA[Robot Attic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robot-attic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 16:54:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 17:29:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robot-attic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Horizons]]></title>
+            <description><![CDATA[<article><h1>New Horizons</h1><p>NASA's first mission to Pluto and the Kuiper Belt. Includes mission details and educational resources.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee51bd72296d1259c15e03c3dd1b27c0bb892eaa.jpg"></article>]]></description>
+            <link>http://pluto.jhuapl.edu/</link>
+            <guid isPermaLink="false">9146b36f-7597-4669-9dce-5da89818a915</guid>
+            <pubDate>Mon, 22 Feb 2016 17:29:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will I dream?]]></title>
             <description><![CDATA[<article><h1>Will I dream?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17dfe911bcc2256c473520acc44eab91fbad2d37.png"></article>]]></description>
-            <link>undefinedwill-i-dream/index.html</link>
+            <link>https://thegrid.ai/robot-attic/will-i-dream/index.html</link>
             <guid isPermaLink="false">1f0f7299-a17f-4c02-8367-dcd3c9d30f71</guid>
             <pubDate>Mon, 22 Feb 2016 16:54:25 GMT</pubDate>
         </item>
