@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T17:50:08.485Z'
-dateModified: '2016-02-22T17:47:03.618Z'
-title: Will I dream?
+datePublished: '2016-02-22T17:52:54.889Z'
+dateModified: '2016-02-22T17:52:33.785Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-02-22-will-i-dream.md
 published: true
@@ -22,5 +22,6 @@ url: will-i-dream/index.html
 _type: Article
 
 ---
-# Will I dream?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/808d9f23-ee1c-41ee-aacf-f42ead942336.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/17dfe911bcc2256c473520acc44eab91fbad2d37.png)
+
+#
